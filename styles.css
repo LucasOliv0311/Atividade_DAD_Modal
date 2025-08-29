@@ -183,7 +183,7 @@ Modal
 */
 .hero {
   min-height: 100vh;
-  background: url("./hero.jpeg") center/cover no-repeat;
+  background: url("./jef.png") center/cover no-repeat;
   display: grid;
   place-items: center;
 }
@@ -249,4 +249,16 @@ Modal
 .close-btn:hover {
   color: var(--clr-red-light);
   transform: scale(1.3);
+}
+
+.redes {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.redes img {
+  height: 50px;
+  width: 50px;
+  border-radius: 10px; 
 }
