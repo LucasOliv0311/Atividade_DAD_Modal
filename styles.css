@@ -228,10 +228,12 @@ Modal
   background: var(--clr-white);
   border-radius: var(--radius);
   width: 90vw;
-  height: 30vh;
+  height: fit-content;
   max-width: var(--fixed-width);
   text-align: center;
   display: grid;
+  gap: 1rem;
+  padding: 1rem;
   place-items: center;
   position: relative;
 }
