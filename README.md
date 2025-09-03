@@ -14,3 +14,4 @@ Quando o botão é acionado, a classe "open-modal" é adicionada ao elemento ext
 
 # <center>O Que Implementamos?</center>
 Alteramos o tema da página para "Instituto J&F". Adicionamos uma imagem do instituto no background, além de um carrossel com imagens e um vídeo sobre a escola e botões que te levam para as principais redes da instituição.
+O carrossel foi feito com base neste vídeo: https://www.youtube.com/watch?v=9HcxHDS2w1s
